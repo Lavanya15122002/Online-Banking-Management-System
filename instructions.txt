@@ -1,0 +1,41 @@
+### capstone project 
+## title : ATM machine simulation 
+## description : use your python skills to create pyatm machine with exact features 
+
+
+
+# json handling, file handling, os, higherorder functions , exeception handling 
+
+## steps 
+ - Authentication 
+   - username , password, 
+     - validation for password 
+       - get a prompt to generate password 
+         - password generator code generate password 
+           - show password 
+            - save password (db)
+ - Authorization 
+ - if user is Authenticated 
+   - Creating account  
+   - verify his account 
+   - allow operations  (db) (database.json) 
+     - deposite 
+     - withdrawn 
+     - check balance 
+
+## database 
+## two db -- accounts, creds , 
+### single db -- username,password (recommended)
+
+
+
+
+{
+  'username':{
+      'account no ':123,
+      'acctype': 'saving/current',
+      'is_active': 'True/False',
+      'balance':4566,
+      'transactions':[]
+  }
+}

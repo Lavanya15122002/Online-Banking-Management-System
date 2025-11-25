@@ -1,0 +1,12 @@
+{
+    "lavanya": {
+        "account no": "ACCNO1001",
+        "acctype": "saving",
+        "is_active": true,
+        "balance": 800,
+        "transactions": [
+            "deposite : Rs1000-2025-11-21 18:14:30.555687",
+            "withdrawn : Rs200-2025-11-21 18:15:26.627473"
+        ]
+    }
+}
